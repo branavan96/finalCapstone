@@ -2,8 +2,11 @@
 ## Capstone Project - NLP Applications
 ### Contents of the projects:
 **1 - Description of Project**
+
 **2- Installation Information**
+
 **3 - Usage Instructions**
+
 **4 - Credits**
 
 ### 1 - Description of Project
