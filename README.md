@@ -1,6 +1,6 @@
 # finalCapstone
 ## Capstone Project - NLP Applications
-### Contents of the projects:
+### Contents:
 **1 - Description of Project**
 
 **2- Installation Information**
